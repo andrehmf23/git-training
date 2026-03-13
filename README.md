@@ -4,3 +4,5 @@
 - git commit -m "frase"
 - git pull
 - git push
+## Comandos Extras
+- git clone <link>
