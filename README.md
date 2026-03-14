@@ -12,3 +12,4 @@ Nesse código estamos testando o uso do git do GitHub
 - test 2
 ## Conclusão
 Existem muitos conflitos que podem acontecer quando estamos juntando códigos que tem diferentes implementações
+# Valor 1
