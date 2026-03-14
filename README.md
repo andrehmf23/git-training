@@ -10,6 +10,5 @@ Nesse código estamos testando o uso do git do GitHub
 ## Comandos Extras
 - git clone <link>
 - test 2
-- test 3
 ## Conclusão
 Existem muitos conflitos que podem acontecer quando estamos juntando códigos que tem diferentes implementações
