@@ -9,6 +9,5 @@ Nesse código estamos testando o uso do git do GitHub
 - git push
 ## Comandos Extras
 - git clone <link>
-### Valor 2
 ## Conclusão
 Existem muitos conflitos que podem acontecer quando estamos juntando códigos que tem diferentes implementações
